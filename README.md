@@ -12,8 +12,10 @@ It use Keywords to detect.
 ### Installing PyQt5
 
 On Fedora:
-```bash
-sudo dnf install python3-qt5 or pip3 install PyQt5
+
+sudo dnf install python3-qt5
+or other distro's
+pip3 install PyQt5
 
 #### Installation
 
@@ -39,4 +41,7 @@ Results show:
 
 Use "Clear" to reset the interface
 Done!
+
+
+![Description](AltAiChecker.png)
 
