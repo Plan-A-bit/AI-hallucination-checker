@@ -19,7 +19,7 @@ pip3 install PyQt5
 
 #### Installation
 
-    Clone the repository:
+    Clone the repository
 
 git clone https://github.com/Plan-A-bit/hallucination-tester.git
 cd hallucination-tester
